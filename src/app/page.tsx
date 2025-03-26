@@ -12,6 +12,12 @@ export default function Home() {
         
         <div className="w-full relative px-12 py-4">
           <HeroSection/>
+        <footer className='max-w-4-xl mx-auto bottom-0 pb-4'>
+          <p className='text-center text-sm text-gray-500'>
+            @ 2025 NRacoo. All rights reserved
+          </p>
+
+        </footer>
         </div>
       </main>
   )
